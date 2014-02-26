@@ -1,0 +1,35 @@
+.container {
+	margin-top: 200px
+	margin-left: auto;
+	text-align: center;
+	width: 900px;
+}
+img.foto {
+	width: 207px;
+	height: 207px;
+
+	}
+	.row{
+		margin-bottom: 2px;
+
+	}
+.titulo {
+	font-family: verdana;
+	margin-bottom: 100px;
+	color: #00A876
+}
+.thumbnail {
+	width: 215px;
+	height: 215px;
+}
+.mimenu{
+	position: absolute;
+	margin-left: 200px;
+	margin-top: 200px;
+
+
+}
+.titulo {
+	margin-top: 200px;
+	
+}
